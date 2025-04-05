@@ -8,7 +8,7 @@ The website aims to enhance the brand’s professional image, attract customers 
 
 ---
 
-## 👥 Target Users and Their Needs
+## Target Users and Their Needs
 
 ### Flavor-Conscious Consumers  
 1. Explore flavor and filling combinations with shop recommendations  
