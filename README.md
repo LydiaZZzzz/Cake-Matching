@@ -1,8 +1,6 @@
 # X Heal – ACL Recovery Assistant  
-**Milestone 1 – Motion Classification with LSTM**
 
 **Team 12** | Shangming Zhuo, Jazmyn Zhang, Yunqing Zhao, Auria Zhang  
-**GitHub:** https://github.com/oivia123/515project
 
 ---
 
